@@ -25,8 +25,8 @@ public class MySpreadSheetIntegration {
 	public List<SpreadsheetEntry> conexionGSS() throws IOException,
 			ServiceException {
 
-		String USERNAME = "erppepe@gmail.com";
-		String PASSWORD = "pepeerppepe";
+		String USERNAME = "xxxxxxxxxxxxxxxxx@gmail.com";
+		String PASSWORD = "xxxxxxxxxxxx";
 
 		SpreadsheetService service = new SpreadsheetService(
 				"MySpreadsheetIntegration");
